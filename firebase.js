@@ -6,13 +6,13 @@ import { getDatabase } from 'firebase/database';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB4ScaEIp9GS40MH5iulM0_u8xTCmszyl0",
-  authDomain: "handyman-application.firebaseapp.com",
-  projectId: "handyman-application",
-  storageBucket: "handyman-application.appspot.com",
-  messagingSenderId: "615134807170",
-  appId: "1:615134807170:web:444e0fff05c5b9f39f609b",
-  measurementId: "G-83Y1N6ZTHN"
+  apiKey: "API_KEY",
+  authDomain: "YOUR_INFO",
+  projectId: "YOUR_INFO",
+  storageBucket: "YOUR_INFO",
+  messagingSenderId: "YOUR_INFO",
+  appId: "YOUR_INFO",
+  measurementId: "YOUR_INFO"
 };
 
 // Initialize Firebase
